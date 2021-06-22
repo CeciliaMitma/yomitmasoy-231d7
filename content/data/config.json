@@ -73,5 +73,6 @@
             }
         ]
     },
-    "domain": "https://yomitmasoy-231d7.netlify.app"
+    "domain": "https://yomitmasoy-231d7.netlify.app",
+    "favicon": "/images/whatsapp black.png"
 }
