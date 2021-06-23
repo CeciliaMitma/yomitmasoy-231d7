@@ -1,5 +1,5 @@
 ---
-title: ¡Qué genial verte por aquí!
+title: ¡Que bueno verte por aquí!
 subtitle: Te contaré un poco sobre mí
 image: images/about.jpg
 image_alt: A man taking a picture
