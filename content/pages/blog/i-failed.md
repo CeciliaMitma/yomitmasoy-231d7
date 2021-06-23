@@ -49,6 +49,7 @@ The second one is to see failure as a lesson. Thereby, we can see the possibilit
 
 > **So, is the second option better? Yes and No. Why?** 
 
-An important part of learning about the mistake or failure is to know both sides of the coin and the only way to know our reaction in front of it is possible we should go through the first one several times.
+An important part of learning about the mistake or failure is to know both sides of the coin and the only way to know our reaction in front of it is going through both options and comparing them in real life.
 
-Therefore, if we want to capitalize our mistakes and internalize that the second option is convenientest, it is possible that we should go through several times for the first one.
+Therefore, if we want to capitalize our mistakes and internalize that the second option is convenientest, it is possible that we should go through the first one several times.
+
