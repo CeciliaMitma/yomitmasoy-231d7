@@ -18,7 +18,7 @@ sections:
     posts_number: 4
     col_number: two
     actions:
-      - label: View Blog
+      - label: Ver Blog
         url: blog
         style: button
 seo:
