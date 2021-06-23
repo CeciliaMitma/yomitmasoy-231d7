@@ -1,6 +1,6 @@
 ---
 title: Qué genial verte por aquí
-subtitle: This is a short page about us and our work.
+subtitle: Te contaré un poco de mí
 image: images/about.jpg
 image_alt: A man taking a picture
 seo:
