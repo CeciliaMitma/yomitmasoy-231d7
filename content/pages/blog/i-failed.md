@@ -12,7 +12,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: What are some of the best designed video games
+      value: 'I failed, then what?'
       keyName: property
     - name: 'og:description'
       value: Diam sit amet nisl suscipit adipiscing bibendum est ultricies integer
