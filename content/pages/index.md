@@ -5,9 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hola, soy Cecilia Mitma'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      ¿Sabías que las personas que se cruzan en nuestras vidas son las maestras
+      que necesitamos para continuar?
     actions:
       - label: Hablemos
         url: /contact
