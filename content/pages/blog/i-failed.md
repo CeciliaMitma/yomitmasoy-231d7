@@ -33,7 +33,7 @@ seo:
       value: images/6.jpg
       relativeUrl: true
 layout: post
-thumb_image: images/6_thumb.jpg
+thumb_image: /images/mistake-876597_1920.jpg
 image: images/6.jpg
 ---
 
