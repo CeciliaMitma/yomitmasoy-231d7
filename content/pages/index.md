@@ -83,7 +83,6 @@ sections:
           convallis, interdum ligula vel, pretium diam.
 seo:
   title: YoMitmaSoy
-  description: The preview of the Exto theme
   extra:
     - name: 'og:type'
       value: website
