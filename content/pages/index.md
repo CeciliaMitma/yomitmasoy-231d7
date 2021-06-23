@@ -106,5 +106,6 @@ seo:
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
+  description: Cecilia Mitma | Blog personal
 layout: advanced
 ---
