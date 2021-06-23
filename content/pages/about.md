@@ -4,7 +4,7 @@ subtitle: Te contaré un poco sobre mí
 image: images/about.jpg
 image_alt: A man taking a picture
 seo:
-  title: About Us
+  title: Sobre mí
   description: This is the about us page
   extra:
     - name: 'og:type'
