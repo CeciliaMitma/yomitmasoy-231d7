@@ -5,7 +5,7 @@ thumb_image_alt: Cafe derramado sobre papeles de trabajo
 image_alt: cafe derramado sobre papeles de trabajo
 excerpt: There are two ways we have to figure out which one is better.
 seo:
-  title: What are some of the best designed video games
+  title: 'I failed, then what?'
   description: Diam sit amet nisl suscipit adipiscing bibendum est ultricies integer
   extra:
     - name: 'og:type'
