@@ -1,5 +1,5 @@
 ---
-title: Sobre mí
+title: Qué genial verte por aquí
 subtitle: This is a short page about us and our work.
 image: images/about.jpg
 image_alt: A man taking a picture
