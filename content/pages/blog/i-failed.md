@@ -33,6 +33,7 @@ seo:
 layout: post
 thumb_image: /images/mistake-876597_1920.jpg
 image: /images/enthusiastic-lettuce.jpg
+subtitle: by Cecilia Mitma
 ---
 When we want to achieve something, especially when it is really important, in most of the cases we have to take risks in order to get it.
 
