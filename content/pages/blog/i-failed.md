@@ -15,7 +15,7 @@ seo:
       value: 'I failed, then what?'
       keyName: property
     - name: 'og:description'
-      value: Diam sit amet nisl suscipit adipiscing bibendum est ultricies integer
+      value: There are two ways we have to figure out which one is better.
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/images/smiling-spruce.jpg
