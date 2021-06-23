@@ -26,11 +26,6 @@
                 "label": "Contacto",
                 "url": "/contact/",
                 "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide/",
-                "style": "link"
             }
         ],
         "logo_img": "/images/unique-whale.jpg"
