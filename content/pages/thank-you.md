@@ -7,7 +7,11 @@ seo:
   title: ¡Gracias por contactarte!
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: ¡Gracias por contactarte!
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 ---
 
