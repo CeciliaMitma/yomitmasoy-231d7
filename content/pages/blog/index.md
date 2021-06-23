@@ -17,7 +17,7 @@ seo:
       value: This is the blog page
       keyName: property
     - name: 'og:image'
-      value: images/12.jpg
+      value: /_static/app-assets/images/important-neptune.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
