@@ -104,7 +104,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Exto theme
     - name: 'twitter:image'
-      value: images/exto_preview.png
+      value: /_static/app-assets/images/10_thumb.jpg
       relativeUrl: true
   description: Cecilia Mitma | Blog personal
 layout: advanced
