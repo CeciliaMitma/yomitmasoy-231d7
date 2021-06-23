@@ -44,7 +44,7 @@ seo:
     - name: 'twitter:description'
       value: Cecilia Mitma | Blog personal
     - name: 'twitter:image'
-      value: /_static/app-assets/images/10_thumb.jpg
+      value: /_static/app-assets/images/10.jpg
       relativeUrl: true
   description: Cecilia Mitma | Blog personal
 layout: advanced
