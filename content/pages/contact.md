@@ -39,7 +39,7 @@ sections:
           can be contacted.
     submit_label: Enviar
 seo:
-  title: Contact
+  title: Contacto
   description: This is the contact page
   extra:
     - name: 'og:type'
