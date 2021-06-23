@@ -94,7 +94,7 @@ seo:
       value: Cecilia Mitma | Blog personal
       keyName: property
     - name: 'og:image'
-      value: images/exto_preview.png
+      value: /_static/app-assets/images/10_thumb.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
