@@ -102,7 +102,7 @@ seo:
     - name: 'twitter:title'
       value: YoMitmaSoy
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: Cecilia Mitma | Blog personal
     - name: 'twitter:image'
       value: /_static/app-assets/images/10_thumb.jpg
       relativeUrl: true
