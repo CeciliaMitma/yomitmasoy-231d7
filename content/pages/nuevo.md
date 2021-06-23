@@ -9,6 +9,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: page
+image: /images/12_thumb.jpg
 ---
 ## Lorem ipsum
 
