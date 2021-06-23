@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:title'
       value: What are some of the best designed video games
     - name: 'twitter:description'
-      value: Diam sit amet nisl suscipit adipiscing bibendum est ultricies integer
+      value: There are two ways we have to figure out which one is better.
     - name: 'twitter:image'
       value: images/6.jpg
       relativeUrl: true
