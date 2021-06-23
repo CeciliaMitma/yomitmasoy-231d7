@@ -15,7 +15,6 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Lo más reciente del Blog
-    subtitle: An optional subtitle of the section
     posts_number: 4
     col_number: two
     actions:
