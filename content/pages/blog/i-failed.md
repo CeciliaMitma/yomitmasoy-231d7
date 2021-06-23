@@ -18,7 +18,7 @@ seo:
       value: Diam sit amet nisl suscipit adipiscing bibendum est ultricies integer
       keyName: property
     - name: 'og:image'
-      value: images/6.jpg
+      value: /_static/app-assets/images/smiling-spruce.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
