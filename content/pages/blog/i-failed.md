@@ -1,6 +1,6 @@
 ---
 title: 'I failed, then what?'
-date: '2020-06-23'
+date: '2021-06-23'
 thumb_image_alt: A handheld game console on a yellow background
 image_alt: A handheld game console on a yellow background
 excerpt: >-
