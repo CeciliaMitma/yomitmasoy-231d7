@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:description'
       value: There are two ways we have to figure out which one is better.
     - name: 'twitter:image'
-      value: images/6.jpg
+      value: /_static/app-assets/images/graceful-zebra.jpg
       relativeUrl: true
 layout: post
 thumb_image: /images/mistake-876597_1920.jpg
