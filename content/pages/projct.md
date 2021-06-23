@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Project
 hide_title: true
 sections:
   - title: lorem-ipsum
