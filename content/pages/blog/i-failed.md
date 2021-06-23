@@ -1,5 +1,5 @@
 ---
-title: What are some of the best designed video games
+title: 'I failed, then what?'
 subtitle: lorem-ipsum
 date: '2018-01-09'
 thumb_image_alt: A handheld game console on a yellow background
