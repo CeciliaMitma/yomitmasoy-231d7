@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hola, soy Cecilia Mitma'
     content: >
-      ¿Sabías que las personas que se cruzan en nuestras vidas son las maestras
+      ¿Sabías que las personas que se cruzan en nuestras vidas tienen enseñanzas
       que necesitamos para continuar?
     actions:
       - label: Hablemos
