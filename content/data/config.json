@@ -23,6 +23,11 @@
                 "style": "link"
             },
             {
+                "label": "Contact",
+                "url": "/contact/",
+                "style": "link"
+            },
+            {
                 "label": "Portfolio",
                 "url": "/portfolio/",
                 "style": "link"
@@ -30,11 +35,6 @@
             {
                 "label": "Style Guide",
                 "url": "/style-guide/",
-                "style": "link"
-            },
-            {
-                "label": "Contact",
-                "url": "/contact/",
                 "style": "link"
             }
         ],
