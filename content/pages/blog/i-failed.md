@@ -36,9 +36,18 @@ layout: post
 thumb_image: /images/mistake-876597_1920.jpg
 image: /images/enthusiastic-lettuce.jpg
 ---
+When we want to achieve something, especially when it is really important, in most of the cases we have to take risks in order to get it.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum nisi quis eleifend quam adipiscing vitae proin. Fermentum dui faucibus in ornare quam viverra orci sagittis. Nunc mattis enim ut tellus elementum sagittis. Sed nisi lacus sed viverra tellus. Lectus arcu bibendum at varius vel. Lacus laoreet non curabitur gravida arcu. Ipsum dolor sit amet consectetur adipiscing elit ut aliquam purus. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Eget dolor morbi non arcu. Volutpat est velit egestas dui id ornare arcu. Orci porta non pulvinar neque laoreet suspendisse interdum. Odio euismod lacinia at quis risus. Iaculis nunc sed augue lacus viverra. Suspendisse in est ante in nibh mauris cursus. Consectetur adipiscing elit ut aliquam purus sit amet luctus venenatis. Non odio euismod lacinia at quis risus sed vulputate. Semper viverra nam libero justo. Amet cursus sit amet dictum sit.
+And after all the effort we put in, the result says NO. We failed. For now, it is not our time to get it. 
 
-Diam sit amet nisl suscipit adipiscing bibendum est ultricies integer. Duis tristique sollicitudin nibh sit amet commodo nulla facilisi. Mauris augue neque gravida in fermentum et. Tincidunt lobortis feugiat vivamus at augue. Iaculis urna id volutpat lacus laoreet. Risus feugiat in ante metus dictum at tempor commodo. Commodo odio aenean sed adipiscing diam donec adipiscing tristique risus. Enim eu turpis egestas pretium aenean pharetra magna. Urna cursus eget nunc scelerisque viverra mauris in aliquam. Vulputate dignissim suspendisse in est ante in nibh mauris cursus. A cras semper auctor neque vitae. Rhoncus dolor purus non enim praesent elementum facilisis. Nam aliquam sem et tortor consequat id porta nibh venenatis. Sollicitudin ac orci phasellus egestas tellus. Et magnis dis parturient montes nascetur ridiculus.
+What will happen next?. Well, we are at some point where we have two options to go on with our lives.
 
-Tincidunt lobortis feugiat vivamus at augue eget arcu. Est lorem ipsum dolor sit amet consectetur adipiscing elit. Non nisi est sit amet facilisis magna etiam tempor. Et egestas quis ipsum suspendisse. Turpis egestas pretium aenean pharetra magna. Diam sollicitudin tempor id eu nisl nunc mi ipsum. Diam in arcu cursus euismod quis viverra nibh cras. Ornare lectus sit amet est placerat in egestas erat imperdiet. Adipiscing enim eu turpis egestas pretium. Sit amet est placerat in egestas. Euismod lacinia at quis risus sed vulputate odio. Quis commodo odio aenean sed adipiscing diam. Fermentum et sollicitudin ac orci phasellus. Eget aliquet nibh praesent tristique magna. Quisque sagittis purus sit amet volutpat consequat. Diam quis enim lobortis scelerisque fermentum dui. Leo urna molestie at elementum eu facilisis sed. Eget nulla facilisi etiam dignissim. Volutpat odio facilisis mauris sit amet.
+The first one is to stay in a permanent disappointment state, overthinking about each negative piece blocking up any possibility to learn something from ​the experience. In which case, we are just feeding our saboteur spirit and the only thing we learn is that we cannot do it.
+
+The second one is to see failure as a lesson. Thereby, we can see the possibility of turning disappointment into motivation. It is not the solution, but it helps to face it in a different and constructive way.
+
+So, is the second option better?. Yes and No. Why? 
+
+An important part of learning about the mistake or failure is to know both sides of the coin and the only way to know our reaction in front of it is going through both options and comparing them in real life.
+
+Therefore, if we want to capitalize our mistakes and internalize that the second option is convenientest, it is possible that we go through several times for the first one.
