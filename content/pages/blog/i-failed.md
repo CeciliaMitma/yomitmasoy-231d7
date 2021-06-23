@@ -2,7 +2,7 @@
 title: 'I failed, then what?'
 date: '2021-06-23'
 thumb_image_alt: Cafe derramado sobre papeles de trabajo
-image_alt: A handheld game console on a yellow background
+image_alt: cafe derramado sobre papeles de trabajo
 excerpt: >-
   Diam sit amet nisl suscipit adipiscing bibendum est ultricies integer. Duis
   tristique sollicitudin nibh sit amet commodo nulla facilisi.
