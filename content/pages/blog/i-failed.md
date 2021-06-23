@@ -38,7 +38,9 @@ When we want to achieve something, especially when it is really important, in mo
 
 And after all the effort we put in, the result says NO. We failed. For now, it is not our time to get it. 
 
-What will happen next?. Well, we are at some point where we have two options to go on with our lives.
+> What will happen next?. 
+
+Well, we are at some point where we have two options to go on with our lives.
 
 The first one is to stay in a permanent disappointment state, overthinking about each negative piece blocking up any possibility to learn something from ​the experience. In which case, we are just feeding our saboteur spirit and the only thing we learn is that we cannot do it.
 
