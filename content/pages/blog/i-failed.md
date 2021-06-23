@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: What are some of the best designed video games
+      value: 'I failed, then what?'
     - name: 'twitter:description'
       value: There are two ways we have to figure out which one is better.
     - name: 'twitter:image'
