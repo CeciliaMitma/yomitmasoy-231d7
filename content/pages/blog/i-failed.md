@@ -3,7 +3,7 @@ title: 'I failed, then what?'
 date: '2021-06-23'
 thumb_image_alt: Cafe derramado sobre papeles de trabajo
 image_alt: cafe derramado sobre papeles de trabajo
-excerpt: There
+excerpt: 'There are options '
 seo:
   title: What are some of the best designed video games
   description: Diam sit amet nisl suscipit adipiscing bibendum est ultricies integer
