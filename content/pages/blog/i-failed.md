@@ -37,7 +37,7 @@ subtitle: by Cecilia Mitma
 ---
 When we want to achieve something, especially when it is really important, in most of the cases we have to take risks in order to get it.
 
-And after all the effort we put in, the result says NO. We failed. For now, it is not our time to get it. 
+And after all the effort we put in, the result says **NO**. We failed. For now, it is not our time to get it. 
 
 > What will happen next?
 
@@ -49,6 +49,6 @@ The second one is to see failure as a lesson. Thereby, we can see the possibilit
 
 > So, is the second option better? Yes and No. Why? 
 
-An important part of learning about the mistake or failure is to know both sides of the coin and the only way to know our reaction in front of it is going through both options and comparing them in real life.
+An important part of learning about the mistake or failure is to know both sides of the coin and the only way to know our reaction in front of it is possible we should go through the first one several times.
 
 Therefore, if we want to capitalize our mistakes and internalize that the second option is convenientest, it is possible that we should go through several times for the first one.
