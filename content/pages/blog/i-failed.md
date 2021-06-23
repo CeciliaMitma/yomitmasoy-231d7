@@ -44,7 +44,7 @@ The first one is to stay in a permanent disappointment state, overthinking about
 
 The second one is to see failure as a lesson. Thereby, we can see the possibility of turning disappointment into motivation. It is not the solution, but it helps to face it in a different and constructive way.
 
-So, is the second option better?. Yes and No. Why? 
+> So, is the second option better?. Yes and No. Why? 
 
 An important part of learning about the mistake or failure is to know both sides of the coin and the only way to know our reaction in front of it is going through both options and comparing them in real life.
 
