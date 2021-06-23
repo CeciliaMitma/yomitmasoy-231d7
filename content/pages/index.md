@@ -91,7 +91,7 @@ seo:
       value: YoMitmaSoy
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: Cecilia Mitma | Blog personal
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
