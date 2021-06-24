@@ -4,7 +4,7 @@ subtitle: by Cecilia Mitma
 date: '2021-06-23'
 thumb_image_alt: Cafe derramado sobre papeles de trabajo
 image_alt: cafe derramado sobre papeles de trabajo
-excerpt: Hay dos maneras
+excerpt: Hay dos maneras. Debemos resolver cual es mejor.
 seo:
   title: 'I failed, then what?'
   description: There are two ways we have to figure out which one is better.
