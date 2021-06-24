@@ -1,5 +1,5 @@
 ---
-title: 'I failed, then what?'
+title: 'Fracasé, ¿Y ahora qué?'
 subtitle: by Cecilia Mitma
 date: '2021-06-23'
 thumb_image_alt: Cafe derramado sobre papeles de trabajo
