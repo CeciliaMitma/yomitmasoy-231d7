@@ -7,7 +7,7 @@ image_alt: cafe derramado sobre papeles de trabajo
 excerpt: Hay dos maneras. Debemos resolver cual es mejor.
 seo:
   title: 'Fracasé, ¿Y ahora qué?'
-  description: There are two ways we have to figure out which one is better.
+  description: 'Hay dos caminos. '
   extra:
     - name: 'og:type'
       value: article
