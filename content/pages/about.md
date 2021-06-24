@@ -17,8 +17,6 @@ seo:
       value: summary_large_image
     - name: 'twitter:title'
       value: Sobre mí
-    - name: 'twitter:description'
-      value: This is the about us page
 layout: page
 ---
 
