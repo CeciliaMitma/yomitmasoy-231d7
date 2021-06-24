@@ -5,7 +5,6 @@ image: /images/Sobre_mi_1.jpg
 image_alt: A man taking a picture
 seo:
   title: Sobre mí
-  description: This is the about us page
   extra:
     - name: 'og:type'
       value: website
