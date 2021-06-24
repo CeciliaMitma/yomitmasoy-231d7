@@ -50,5 +50,6 @@
             }
         ]
     },
-    "domain": "https://yomitmasoy.netlify.app/"
+    "domain": "https://yomitmasoy.netlify.app/",
+    "favicon": "/images/good-octopus.jpg"
 }
