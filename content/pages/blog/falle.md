@@ -35,21 +35,20 @@ layout: post
 thumb_image: /images/mistake-876597_1920.jpg
 image: /images/enthusiastic-lettuce.jpg
 ---
-When we want to achieve something, especially when it is really important, in most of the cases we have to take risks in order to get it.
+Cuando queremos lograr algo, especialmente cuando es muy importante, muchas veces tenemos que tomar riesgos con el fin de lograrlo.
 
-And after all the effort we put in, the result says **NO**. We failed. For now, it is not our time to get it. 
+Y después de todo el esfuerzo invertido, el resultado nos dice NO. Fracasamos. Por ahora, no podremos lograrlo. 
 
-> **What will happen next?**
+> **Y ¿Qué sigue después?**
 
-Well, we are at some point where we have two options to go on with our lives.
+Bueno, llegamos a un punto en el cual tenemos dos opciones para continuar con nuestras vidas.
 
-The first one is to stay in a permanent disappointment state, overthinking about each negative piece, blocking up any possibility to learn something from ​the experience. In which case, we are just feeding our saboteur spirit and the only thing we learn is that we cannot do it.
+La primera opción es mantenernos en un estado de decepción permanente, pensando una y otra vez en cada pieza negativa, bloqueando la posibilidad de encontrar algún aprendizaje de la experiencia. En ese caso, solo estamos alimentando nuestro espíritu saboteador y solo aprendemos que no podemos lograrlo.
 
-The second one is to see failure as a lesson. Thereby, we can see the possibility of turning disappointment into motivation. It is not the solution, but it helps to face it in a different and constructive way.
+La segunda opción es ver al fracaso como aprendizaje. De esta manera, podemos ver la posibilidad de transformar la decepción en motivación. Esto no soluciona todo, pero es una manera de lidiar con el de una manera diferente y constructiva.
 
-> **So, is the second option better? Yes and No. Why?** 
+> **Entonces, ¿La segunda opción es la mejor? Sí y No. ¿Porqué?** 
 
-An important part of learning about the mistake or failure is to know both sides of the coin and the only way to know our reaction in front of it is going through both options and comparing them in real life.
+Un aspecto importante de aprender sobre el error o fracaso es conocer ambos lados de la moneda y la única manera de conocer nuestra reacción es pasar por ambas opciones y compararlas en la vida real.
 
-Therefore, if we want to capitalize our mistakes and internalize that the second option is convenientest, it is possible that we should go through the first one several times.
-
+Por lo tanto, si queremos capitalizar nuestros errores e interiorizar que la segunda opción es la más conveniente, es posible que debamos pasar varias veces por la primera.
