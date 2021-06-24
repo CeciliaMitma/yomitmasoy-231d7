@@ -13,7 +13,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'I failed, then what?'
+      value: 'Fracasé, ¿Y ahora qué?'
       keyName: property
     - name: 'og:description'
       value: There are two ways we have to figure out which one is better.
