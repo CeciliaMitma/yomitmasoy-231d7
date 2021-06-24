@@ -7,7 +7,7 @@ image_alt: cafe derramado sobre papeles de trabajo
 excerpt: Hay dos caminos. Debemos resolver cual es mejor.
 seo:
   title: 'Fracasé, ¿Y ahora qué?'
-  description: Hay dos caminos. Debemos resolver cual es mejor.
+  description: Hay dos caminos. Debemos resolver cuál es mejor.
   extra:
     - name: 'og:type'
       value: article
