@@ -1,7 +1,7 @@
 ---
 title: ¡Que bueno verte por aquí!
 subtitle: Te contaré un poco sobre mí
-image: images/about.jpg
+image: /images/Sobre_mi_1.jpg
 image_alt: A man taking a picture
 seo:
   title: Sobre mí
