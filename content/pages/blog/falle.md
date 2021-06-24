@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 'I failed, then what?'
+      value: 'Fracasé, ¿Y ahora qué?'
     - name: 'twitter:description'
       value: There are two ways we have to figure out which one is better.
     - name: 'twitter:image'
