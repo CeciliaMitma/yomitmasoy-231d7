@@ -16,7 +16,7 @@ seo:
       value: 'Fracasé, ¿Y ahora qué?'
       keyName: property
     - name: 'og:description'
-      value: Hay dos caminos. Debemos resolver cual es mejor.
+      value: Hay dos caminos. Debemos resolver cuál es mejor.
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/images/smiling-spruce.jpg
