@@ -44,7 +44,7 @@ seo:
     - name: 'twitter:description'
       value: Cecilia Mitma | Blog personal
     - name: 'twitter:image'
-      value: /_static/app-assets/images/10.jpg
+      value: /_static/app-assets/images/thoughtful-turmeric.jpg
       relativeUrl: true
   description: Cecilia Mitma | Blog personal
 layout: advanced
