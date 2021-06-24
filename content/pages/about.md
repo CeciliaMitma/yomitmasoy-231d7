@@ -22,9 +22,6 @@ seo:
       value: Sobre mí
     - name: 'twitter:description'
       value: This is the about us page
-    - name: 'twitter:image'
-      value: images/about.jpg
-      relativeUrl: true
 layout: page
 ---
 
