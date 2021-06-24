@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:title'
       value: 'Fracasé, ¿Y ahora qué?'
     - name: 'twitter:description'
-      value: There are two ways we have to figure out which one is better.
+      value: Hay dos caminos. Debemos resolver cuál es mejor.
     - name: 'twitter:image'
       value: /_static/app-assets/images/graceful-zebra.jpg
       relativeUrl: true
