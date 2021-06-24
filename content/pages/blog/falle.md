@@ -4,7 +4,7 @@ subtitle: by Cecilia Mitma
 date: '2021-06-20'
 thumb_image_alt: Cafe derramado sobre papeles de trabajo
 image_alt: cafe derramado sobre papeles de trabajo
-excerpt: Hay dos maneras. Debemos resolver cual es mejor.
+excerpt: Hay dos caminos. Debemos resolver cual es mejor.
 seo:
   title: 'Fracasé, ¿Y ahora qué?'
   description: 'Hay dos caminos. '
