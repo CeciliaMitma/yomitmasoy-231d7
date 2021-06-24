@@ -37,13 +37,13 @@ image: /images/enthusiastic-lettuce.jpg
 ---
 Cuando queremos lograr algo, especialmente cuando es muy importante, muchas veces tenemos que tomar riesgos con el fin de lograrlo.
 
-Y después de todo el esfuerzo invertido, el resultado nos dice NO. Fracasamos. Por ahora, no podremos lograrlo. 
+Y después de todo el esfuerzo invertido, el resultado nos dice **NO**. Fracasamos. Por ahora, no podremos lograrlo. 
 
 > **Y ¿Qué sigue después?**
 
 Bueno, llegamos a un punto en el cual tenemos dos opciones para continuar con nuestras vidas.
 
-La primera opción es mantenernos en un estado de decepción permanente, pensando una y otra vez en cada pieza negativa, bloqueando la posibilidad de encontrar algún aprendizaje de la experiencia. En ese caso, solo estamos alimentando nuestro espíritu saboteador y solo aprendemos que no podemos lograrlo.
+La primera opción es mantenernos en un estado de decepción permanente, pensando una y otra vez en cada pieza negativa, bloqueando la posibilidad de encontrar algún aprendizaje de la experiencia. En ese caso, solo estamos alimentando nuestro espíritu saboteador y solo aprendemos que no podemos hacerlo.
 
 La segunda opción es ver al fracaso como aprendizaje. De esta manera, podemos ver la posibilidad de transformar la decepción en motivación. Esto no soluciona todo, pero es una manera de lidiar con el de una manera diferente y constructiva.
 
