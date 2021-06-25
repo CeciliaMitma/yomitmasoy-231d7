@@ -5,7 +5,11 @@ seo:
   title: Sobre mí
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: Sobre mí
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: /images/wonderful-tiger.jpg
