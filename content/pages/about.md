@@ -12,7 +12,7 @@ sections:
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     posts_number: 3
-    col_number: three
+    col_number: two
     actions: []
     type: section_posts
 seo:
