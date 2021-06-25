@@ -19,6 +19,7 @@ sections:
         no_follow: false
         type: action
     type: section_hero
+    section_id: a
 seo:
   title: ''
   description: ''
