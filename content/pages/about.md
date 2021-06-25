@@ -37,6 +37,13 @@ sections:
     form_fields: []
     submit_label: Contáctame
     type: section_form
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    posts_number: 3
+    col_number: three
+    actions: []
+    type: section_posts
 seo:
   title: ''
   description: ''
