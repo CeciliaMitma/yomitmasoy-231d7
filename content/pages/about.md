@@ -10,7 +10,7 @@ sections:
       ##
 
 
-      # Cecilia Mitma
+      # Soy Cecilia Mitma
 
 
       ![](https://preview--yomitmasoy-231d7.stackbit.dev/\_static/app-assets/images/futuristic-goose.jpg)Soy
