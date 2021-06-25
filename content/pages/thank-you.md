@@ -14,7 +14,6 @@ seo:
       relativeUrl: false
   type: stackbit_page_meta
 ---
+¡Gracias por contactarte! Estaremos en contacto pronto.
 
-Thank you for contacting us! We will get back in touch with you soon.
-
-**Have a great day!**
+**¡Ten un lindo día!**
