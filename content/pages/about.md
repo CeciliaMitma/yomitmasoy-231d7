@@ -37,7 +37,6 @@ sections:
     form_fields: []
     submit_label: lorem-ipsum
     type: section_form
-    title: CTA
 seo:
   title: ''
   description: ''
