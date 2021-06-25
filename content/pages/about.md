@@ -3,7 +3,7 @@ title: Sobre mí
 image_alt: lorem-ipsum
 seo:
   title: Sobre mí
-  description: ''
+  description: Cecilia Mitma | Blog personal
   robots: []
   extra:
     - name: 'og:title'
