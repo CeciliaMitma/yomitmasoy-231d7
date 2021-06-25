@@ -47,7 +47,7 @@ La primera opción es mantenernos en un estado de decepción permanente, pensand
 
 La segunda opción es ver al fracaso como aprendizaje. De esta manera, podemos ver la posibilidad de transformar la decepción en motivación. Esto no soluciona todo, pero es una manera de lidiar con el fracaso de una manera diferente y constructiva.
 
-> **Entonces, ¿La segunda opción es la mejor? Sí y No. ¿Porqué?** 
+> **Entonces, ¿La segunda opción es la mejor? Sí y No. ¿Por qué?** 
 
 Un aspecto importante de aprender sobre el error o fracaso es conocer ambos lados de la moneda y la única manera de conocer nuestra reacción es pasar por ambas opciones y compararlas en la vida real.
 
