@@ -11,4 +11,3 @@ seo:
 layout: page
 image: /images/wonderful-tiger.jpg
 ---
-[Contáctame](https://yomitmasoy.netlify.app/contact/)
