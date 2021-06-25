@@ -12,7 +12,7 @@ sections:
       - label: Hablemos
         url: /contact
         style: button
-      - label: Con
+      - label: Conóceme
         url: /about
         style: button
         icon: dribbble
