@@ -13,14 +13,8 @@ sections:
       # Cecilia Mitma
 
 
-      ![](https://preview--yomitmasoy-231d7.stackbit.dev/\_static/app-assets/images/futuristic-goose.jpg)Lorem
-      ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-
-
-      *   Lorem ipsum
-
-      *   dolor sit amet
+      ![](https://preview--yomitmasoy-231d7.stackbit.dev/\_static/app-assets/images/futuristic-goose.jpg)Soy
+      Ingeniera Industrial de la Universidad Nacional Mayor de San Marcos
     type: section_content
   - content: >-
       ## Lorem ipsum
