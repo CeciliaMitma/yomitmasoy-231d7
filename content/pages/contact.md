@@ -25,7 +25,7 @@ sections:
         label: Tipo
         default_value: Please select
         options:
-          - Error en el
+          - Error en la web
           - Sponsorship
           - Other
       - input_type: textarea
