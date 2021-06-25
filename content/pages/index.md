@@ -13,7 +13,7 @@ sections:
         url: /contact
         style: button
       - label: Conóceme
-        url: /about
+        url: /prueba
         style: button
         icon: dribbble
         new_window: false
