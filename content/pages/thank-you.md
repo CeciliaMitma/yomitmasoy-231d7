@@ -1,6 +1,6 @@
 ---
 title: Thank You!
-image: images/thank-you.jpg
+image: /images/sheep-1644146_1920.jpg
 image_alt: Thank You Led Signage
 layout: page
 seo:
