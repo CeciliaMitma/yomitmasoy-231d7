@@ -22,7 +22,7 @@ sections:
     type: section_hero
     section_id: a
 seo:
-  title: ''
+  title: Sobre mí
   description: ''
   robots: []
   extra:
