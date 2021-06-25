@@ -1,5 +1,5 @@
 ---
-title: Sobre mí
+title: Sobre míll
 hide_title: false
 sections:
   - title: ¡Que bueno verte por aquí!
