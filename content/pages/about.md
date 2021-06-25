@@ -7,10 +7,7 @@ sections:
     subtitle: Te contaré un poco sobre mí
     image_alt: lorem-ipsum
     content: >
-      ##
-
-
-      # Soy Cecilia Mitma
+      #
 
 
       ![](https://preview--yomitmasoy-231d7.stackbit.dev/\_static/app-assets/images/futuristic-goose.jpg)Soy
