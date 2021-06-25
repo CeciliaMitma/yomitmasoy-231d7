@@ -11,7 +11,7 @@ sections:
   - form_id: lorem-ipsum
     form_action: lorem-ipsum
     form_fields: []
-    submit_label: Contactame
+    submit_label: Contáctame
     type: section_form
 seo:
   title: ''
