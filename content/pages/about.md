@@ -11,7 +11,7 @@ sections:
     type: section_content
   - title: ¡Que bueno verte por aquí!
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Te contaré un poco sobre mí.
     image_alt: lorem-ipsum
     content: >
       Soy Cecilia Mitma Villagómez y estoy aquí para compartir algunos
