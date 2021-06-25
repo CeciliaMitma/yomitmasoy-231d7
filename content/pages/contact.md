@@ -5,8 +5,8 @@ sections:
   - section_id: contact-form
     type: section_form
     content: >
-      Hi there! Thank you so much for your interest in working together. Please
-      fill the contact form below or send us an email at cecilia.mitma@gmail.com
+      ¡Hola! Muchas gracias por tu interés en contactarme. Por favor llena este
+      formulario o envíame un correo a esta dirección cecilia.mitma@gmail.com
     form_id: contactForm
     form_action: /thank-you
     form_fields:
