@@ -1,6 +1,6 @@
 ---
 title: Sobre mí
-hide_title: true
+hide_title: false
 sections:
   - title: ¡Que bueno verte por aquí!
     section_id: lorem-ipsum
