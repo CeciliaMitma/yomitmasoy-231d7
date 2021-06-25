@@ -2,8 +2,7 @@
 title: ¡Que bueno verte por aquí!
 hide_title: false
 sections:
-  - title: ¡Que bueno verte por aquí!
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     subtitle: Te contaré un poco sobre mí.
     image_alt: lorem-ipsum
     content: >+
