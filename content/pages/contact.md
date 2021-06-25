@@ -16,7 +16,7 @@ sections:
         default_value: Coloca tu nombre
         is_required: true
       - input_type: email
-        name: email
+        name: 'Direccion '
         label: Email
         default_value: Your email address
         is_required: true
