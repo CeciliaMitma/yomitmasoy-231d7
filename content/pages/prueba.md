@@ -10,6 +10,10 @@ seo:
       value: Sobre mí
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Sobre mí
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: /images/wonderful-tiger.jpg
