@@ -9,6 +9,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: page
+image: /images/wonderful-tiger.jpg
 ---
 ## Lorem ipsum
 
