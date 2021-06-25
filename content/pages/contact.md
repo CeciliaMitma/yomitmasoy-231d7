@@ -40,7 +40,6 @@ sections:
     submit_label: Enviar
 seo:
   title: Contacto
-  description: This is the contact page
   extra:
     - name: 'og:type'
       value: website
