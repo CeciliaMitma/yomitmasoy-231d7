@@ -16,8 +16,7 @@ sections:
       ![](/\_static/app-assets/images/splendid-rabbit.jpg)
 
     type: section_content
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     content: |
       ![](/\_static/app-assets/images/majestic-birch.jpg)
     actions: []
