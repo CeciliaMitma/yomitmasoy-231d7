@@ -33,7 +33,7 @@ layout: post
 image: /images/enthusiastic-lettuce.jpg
 subtitle: by Cecilia Mitma
 thumb_image: /images/curious-cabbage.jpg
-excerpt: There are two way we have to figure out
+excerpt: There are two way we have to figure out which one is better.
 ---
 When we want to achieve something, especially when it is really important, in most of the cases we have to take risks in order to get it.
 
