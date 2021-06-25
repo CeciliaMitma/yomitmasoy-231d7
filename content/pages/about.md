@@ -6,7 +6,10 @@ sections:
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
+    content: >
+      ## ![](/\_static/app-assets/images/futuristic-goose.jpg)
+
+
       ## Lorem ipsum
 
 
@@ -14,9 +17,9 @@ sections:
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      - Lorem ipsum
+      *   Lorem ipsum
 
-      - dolor sit amet
+      *   dolor sit amet
     type: section_content
 seo:
   title: ''
