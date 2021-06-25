@@ -12,6 +12,24 @@ sections:
 
       ![](https://preview--yomitmasoy-231d7.stackbit.dev/\_static/app-assets/images/futuristic-goose.jpg)Soy
       Ingeniera Industrial de la Universidad Nacional Mayor de San Marcos
+
+
+      #### **Mis valores**
+
+
+      *   Optimismo
+
+
+      *   Perseverancia
+
+
+      *   Amor
+
+
+      *   Coherencia
+
+
+      *   Liderazgo
     type: section_content
 seo:
   title: ''
