@@ -31,7 +31,6 @@ seo:
       value: /_static/app-assets/images/graceful-zebra.jpg
       relativeUrl: true
 layout: post
-thumb_image: /images/mistake-876597_1920.jpg
 image: /images/enthusiastic-lettuce.jpg
 subtitle: by Cecilia Mitma
 ---
