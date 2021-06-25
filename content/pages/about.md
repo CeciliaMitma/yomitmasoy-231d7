@@ -14,7 +14,12 @@ sections:
       Ingeniera Industrial de la Universidad Nacional Mayor de San Marcos
 
 
-      #### **Mis valores**
+
+
+      #### **Mis valores:**
+
+
+      Optimismo, Perseverancia, Amor, Coherencia y Liderazgo
 
 
       *   Optimismo
