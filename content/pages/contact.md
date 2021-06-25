@@ -26,7 +26,7 @@ sections:
         default_value: Please select
         options:
           - Error en la web
-          - Sponsorship
+          - Sugerencia
           - Other
       - input_type: textarea
         name: message
