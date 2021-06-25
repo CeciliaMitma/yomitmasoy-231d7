@@ -1,5 +1,5 @@
 ---
-title: Thank You!
+title: ¡Gracias!
 image: /images/sheep-1644146_1920.jpg
 image_alt: Thank You Led Signage
 layout: page
