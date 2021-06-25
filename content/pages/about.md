@@ -2,7 +2,7 @@
 title: Sobre mí
 hide_title: true
 sections:
-  - title: lorem-ipsum
+  - title: Sobre mí
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
