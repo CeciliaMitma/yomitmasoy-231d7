@@ -27,7 +27,7 @@ sections:
         options:
           - Error en la web
           - Sugerencia o comentario
-          - Other
+          - orto
       - input_type: textarea
         name: message
         label: Mensaje
