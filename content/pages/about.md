@@ -7,14 +7,15 @@ sections:
     subtitle: Te contaré un poco sobre mí
     image_alt: lorem-ipsum
     content: >
-      ## ![](/\_static/app-assets/images/futuristic-goose.jpg)
+      ##
 
 
-      ## Lorem ipsum
+      # Cecilia Mitma
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      ![](https://preview--yomitmasoy-231d7.stackbit.dev/\_static/app-assets/images/futuristic-goose.jpg)Lorem
+      ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
 
 
       *   Lorem ipsum
