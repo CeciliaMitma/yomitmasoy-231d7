@@ -21,8 +21,7 @@ sections:
 
       *   dolor sit amet
     type: section_content
-  - section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
