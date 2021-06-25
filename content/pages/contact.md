@@ -36,7 +36,7 @@ sections:
         name: consent
         label: >-
           Entiendo que este formulario almacena mi información enviada para que
-          puedan ser contactados.
+          me contacten.
     submit_label: Enviar
 seo:
   title: Contacto
