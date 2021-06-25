@@ -26,7 +26,7 @@ sections:
         default_value: Please select
         options:
           - Error en la web
-          - Sugerencia
+          - Sugerencia o comentario
           - Other
       - input_type: textarea
         name: message
