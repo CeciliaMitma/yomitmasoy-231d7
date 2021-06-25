@@ -15,7 +15,6 @@ sections:
       que he adquirido en mi experiencia personal y profesional.
 
 
-
       #### Mi profesión
 
 
@@ -30,8 +29,9 @@ sections:
 
       Vengo de una familia muy unida y con mucho empuje, soy de Lima pero por
       mis venas corre sangre sureña, ya que mi madre es arequipeña y mi padre
-      ayacuchano. Desde muy pequeña mis padres me motivaron siempre a buscar
-      mejorar en todo y a causa de ello decidí ser ingeniera.
+      ayacuchano. Desde muy pequeña mis padres me enseñaron que siempre hay
+      manera de encontrar una mejor versión de mí y a causa de ello decidí ser
+      ingeniera.
 
 
       #### Mis valores
