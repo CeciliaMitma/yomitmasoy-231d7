@@ -35,8 +35,8 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+          Entiendo que este formulario almacena mi información enviada para que
+          puedan ser contactados.
     submit_label: Enviar
 seo:
   title: Contacto
