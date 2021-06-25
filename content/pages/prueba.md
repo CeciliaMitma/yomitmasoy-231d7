@@ -11,9 +11,4 @@ seo:
 layout: page
 image: /images/wonderful-tiger.jpg
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+[Contáctame](https://yomitmasoy.netlify.app/contact/)
