@@ -2,7 +2,7 @@
 title: Sobre mí
 image_alt: lorem-ipsum
 seo:
-  title: ''
+  title: Sobre mí
   description: ''
   robots: []
   extra: []
