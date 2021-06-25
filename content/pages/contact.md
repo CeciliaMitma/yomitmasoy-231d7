@@ -23,7 +23,7 @@ sections:
       - input_type: select
         name: subject
         label: Tipo
-        default_value: S
+        default_value: 'Selecciona '
         options:
           - Error en la web
           - Sugerencia o comentario
