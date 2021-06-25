@@ -2,7 +2,7 @@
 title: Sobre mí
 hide_title: true
 sections:
-  - title: Q
+  - title: ¡Que bueno verte por aquí!
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
