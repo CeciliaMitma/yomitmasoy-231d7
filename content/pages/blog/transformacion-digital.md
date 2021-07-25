@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 'Fracasé, ¿Y ahora qué?'
+      value: Transformación digital como motor de crecimiento empresarial
     - name: 'twitter:description'
       value: Hay dos caminos. Debemos resolver cuál es mejor.
     - name: 'twitter:image'
