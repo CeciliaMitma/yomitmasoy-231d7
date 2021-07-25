@@ -25,7 +25,7 @@ seo:
       value: /_static/app-assets/images/pexels-mikael-blomkvist-6476254.jpg
       relativeUrl: true
 layout: post
-thumb_image: /images/mistake-876597_1920.jpg
+thumb_image: /images/pexels-mikael-blomkvist-6476254.jpg
 image: /images/pexels-mikael-blomkvist-6476254.jpg
 ---
 Hace algún tiempo atrás participé de la evaluación de una propuesta de software que se quería implementar en la compañía en la que trabajaba. Esta propuesta estaba vista como la solución a varios de los problemas de información que se tenía, al igual que podría mejorar procesos, dado que  este contaba ya con una estructura muy definida de procesos muy conocidos.
