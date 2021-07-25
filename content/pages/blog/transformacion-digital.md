@@ -35,20 +35,19 @@ layout: post
 thumb_image: /images/mistake-876597_1920.jpg
 image: /images/pexels-mikael-blomkvist-6476254.jpg
 ---
-Cuando queremos lograr algo, especialmente cuando es muy importante, muchas veces tenemos que tomar riesgos con el fin de lograrlo.
+Hace algún tiempo participé de la evaluación de una propuesta de software que se quería implementar en la compañía en la que trabajaba. Esta propuesta estaba vista como la solución a varios de los problemas de información que se tenía, al igual que podría mejorar procesos, dado que  este contaba ya con una estructura muy definida de procesos muy conocidos.
 
-Y después de todo el esfuerzo invertido, el resultado nos dice **NO**. Fracasamos. Por ahora, no podremos lograrlo. 
+La creencia de que una herramienta digital puede ser la solución es bastante común, sobre todo en compañías que no tienen un origen digital.
 
-> **Y ¿Qué sigue después?**
+Y es aquí, en donde necesitamos tener claridad sobre qué entendemos como transformación digital.
 
-Bueno, llegamos a un punto en el cual tenemos dos opciones para continuar con nuestras vidas.
+La transformación digital es el cambio cultural (en algunos casos radical) que permite integrar herramientas digitales y metodologías de trabajo alineadas con la estrategia del negocio. Al ser cultural este cambio radica principalmente en las personas que forman parte de la organización.
 
-La primera opción es mantenernos en un estado de decepción permanente, pensando una y otra vez en cada pieza negativa, bloqueando la posibilidad de encontrar algún aprendizaje de la experiencia. En ese caso, solo estamos alimentando nuestro espíritu saboteador y solo aprendemos que no podemos hacerlo.
+> Cuando una compañía interioriza la transformación digital como parte de su cultura deja de ver a la tecnología como solución y la ve como herramienta para generar soluciones.
 
-La segunda opción es ver al fracaso como aprendizaje. De esta manera, podemos ver la posibilidad de transformar la decepción en motivación. Esto no soluciona todo, pero es una manera de lidiar con el fracaso de una manera diferente y constructiva.
 
-> **Entonces, ¿La segunda opción es la mejor? Sí y No. ¿Por qué?** 
+Este cambio de perspectiva en una organización resulta muy beneficiosa ya que permite que se mejoren diversos aspectos en ella tales como la relación con los clientes (internos y externos), la optimización de recursos, mejora en los procesos, entre otros.
 
-Un aspecto importante de aprender sobre el error o fracaso es conocer ambos lados de la moneda y la única manera de conocer nuestra reacción es pasar por ambas opciones y compararlas en la vida real.
+Con ello, una compañía estaría abriéndose paso a diversas oportunidades que impulsen su crecimiento.
 
-Por lo tanto, si queremos capitalizar nuestros errores e interiorizar que la segunda opción es la más conveniente, es posible que debamos pasar varias veces por la primera.
+
