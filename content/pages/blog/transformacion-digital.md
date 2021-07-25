@@ -1,5 +1,5 @@
 ---
-title: Transformación digital como motor de crecimiento empresarial
+title: La transformación digital como motor de crecimiento empresarial
 subtitle: Por Cecilia Mitma
 date: '2021-07-25'
 thumb_image_alt: Tres personas en reunión de trabajo
