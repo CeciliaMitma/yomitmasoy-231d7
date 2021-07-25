@@ -4,7 +4,6 @@ hide_title: false
 col_number: two
 seo:
   title: Blog
-  description: This is the blog page
   extra:
     - name: 'og:type'
       value: website
