@@ -33,7 +33,7 @@ seo:
       relativeUrl: true
 layout: post
 thumb_image: /images/mistake-876597_1920.jpg
-image: /images/enthusiastic-lettuce.jpg
+image: /images/pexels-mikael-blomkvist-6476254.jpg
 ---
 Cuando queremos lograr algo, especialmente cuando es muy importante, muchas veces tenemos que tomar riesgos con el fin de lograrlo.
 
