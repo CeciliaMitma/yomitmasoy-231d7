@@ -18,7 +18,7 @@ seo:
       value: Hay dos caminos. Debemos resolver cuál es mejor.
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/images/smiling-spruce.jpg
+      value: /_static/app-assets/images/pexels-mikael-blomkvist-6476254.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
