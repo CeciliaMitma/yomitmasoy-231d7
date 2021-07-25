@@ -1,7 +1,7 @@
 ---
 title: Blog
 hide_title: false
-col_number: two
+col_number: three
 seo:
   title: Blog
   extra:
