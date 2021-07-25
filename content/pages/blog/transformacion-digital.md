@@ -4,7 +4,6 @@ subtitle: Por Cecilia Mitma
 date: '2021-07-25'
 thumb_image_alt: Reunión de trabajo
 image_alt: cafe derramado sobre papeles de trabajo
-excerpt: Hay dos caminos. Debemos resolver cuál es mejor.
 seo:
   title: Transformación digital como motor de crecimiento empresarial
   extra:
