@@ -19,8 +19,6 @@ seo:
       value: summary_large_image
     - name: 'twitter:title'
       value: Blog
-    - name: 'twitter:description'
-      value: This is the blog page
     - name: 'twitter:image'
       value: /_static/app-assets/images/curious-cabbage.jpg
       relativeUrl: true
