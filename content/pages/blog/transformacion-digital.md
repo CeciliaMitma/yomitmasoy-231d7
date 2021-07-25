@@ -7,7 +7,6 @@ image_alt: cafe derramado sobre papeles de trabajo
 excerpt: Hay dos caminos. Debemos resolver cuál es mejor.
 seo:
   title: Transformación digital como motor de crecimiento empresarial
-  description: Hay dos caminos. Debemos resolver cuál es mejor.
   extra:
     - name: 'og:type'
       value: article
