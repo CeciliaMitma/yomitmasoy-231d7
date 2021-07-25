@@ -14,9 +14,6 @@ seo:
     - name: 'og:title'
       value: Transformación digital como motor de crecimiento empresarial
       keyName: property
-    - name: 'og:description'
-      value: Hay dos caminos. Debemos resolver cuál es mejor.
-      keyName: property
     - name: 'og:image'
       value: /_static/app-assets/images/pexels-mikael-blomkvist-6476254.jpg
       keyName: property
