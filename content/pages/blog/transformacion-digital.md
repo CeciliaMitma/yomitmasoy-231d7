@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Transformación digital como motor de crecimiento empresarial
 subtitle: lorem-ipsum
 date: '2021-07-25'
 thumb_image_alt: lorem-ipsum
