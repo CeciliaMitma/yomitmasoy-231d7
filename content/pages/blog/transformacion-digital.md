@@ -28,7 +28,7 @@ layout: post
 thumb_image: /images/mistake-876597_1920.jpg
 image: /images/pexels-mikael-blomkvist-6476254.jpg
 ---
-Hace algún tiempo participé de la evaluación de una propuesta de software que se quería implementar en la compañía en la que trabajaba. Esta propuesta estaba vista como la solución a varios de los problemas de información que se tenía, al igual que podría mejorar procesos, dado que  este contaba ya con una estructura muy definida de procesos muy conocidos.
+Hace algún tiempo atrás participé de la evaluación de una propuesta de software que se quería implementar en la compañía en la que trabajaba. Esta propuesta estaba vista como la solución a varios de los problemas de información que se tenía, al igual que podría mejorar procesos, dado que  este contaba ya con una estructura muy definida de procesos muy conocidos.
 
 La creencia de que una herramienta digital puede ser la solución es bastante común, sobre todo en compañías que no tienen un origen digital.
 
@@ -38,9 +38,6 @@ La transformación digital es el cambio cultural (en algunos casos radical) que 
 
 > Cuando una compañía interioriza la transformación digital como parte de su cultura deja de ver a la tecnología como solución y la ve como herramienta para generar soluciones.
 
-
 Este cambio de perspectiva en una organización resulta muy beneficiosa ya que permite que se mejoren diversos aspectos en ella tales como la relación con los clientes (internos y externos), la optimización de recursos, mejora en los procesos, entre otros.
 
 Con ello, una compañía estaría abriéndose paso a diversas oportunidades que impulsen su crecimiento.
-
-
