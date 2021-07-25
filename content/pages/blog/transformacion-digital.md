@@ -12,7 +12,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'Fracasé, ¿Y ahora qué?'
+      value: Transformación digital como motor de crecimiento empresarial
       keyName: property
     - name: 'og:description'
       value: Hay dos caminos. Debemos resolver cuál es mejor.
