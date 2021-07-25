@@ -11,7 +11,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Transformación digital como motor de crecimiento empresarial
+      value: La transformación digital como motor de crecimiento empresarial
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/images/pexels-mikael-blomkvist-6476254.jpg
