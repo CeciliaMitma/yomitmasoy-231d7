@@ -5,7 +5,7 @@ date: '2021-07-25'
 thumb_image_alt: Tres personas en reunión de trabajo
 image_alt: Tres personas en reunión de trabajo
 seo:
-  title: Transformación digital como motor de crecimiento empresarial
+  title: La transformación digital como motor de crecimiento empresarial
   extra:
     - name: 'og:type'
       value: article
