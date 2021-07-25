@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:description'
       value: Hay dos caminos. Debemos resolver cuál es mejor.
     - name: 'twitter:image'
-      value: pexels-mikael-blomkvist-6476254.jpg
+      value: /_static/app-assets/images/pexels-mikael-blomkvist-6476254.jpg
       relativeUrl: true
 layout: post
 thumb_image: /images/mistake-876597_1920.jpg
