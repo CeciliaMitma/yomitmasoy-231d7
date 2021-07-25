@@ -23,7 +23,7 @@ sections:
     type: section_posts
     title: Lo más reciente del Blog
     posts_number: 4
-    col_number: two
+    col_number: three
     actions:
       - label: Ver Blog
         url: blog
