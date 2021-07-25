@@ -11,9 +11,6 @@ seo:
     - name: 'og:title'
       value: Blog
       keyName: property
-    - name: 'og:description'
-      value: This is the blog page
-      keyName: property
     - name: 'og:image'
       value: /_static/app-assets/images/important-neptune.jpg
       keyName: property
