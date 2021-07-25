@@ -20,7 +20,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Transformación digital como motor de crecimiento empresarial
+      value: La transformación digital como motor de crecimiento empresarial
     - name: 'twitter:image'
       value: /_static/app-assets/images/pexels-mikael-blomkvist-6476254.jpg
       relativeUrl: true
