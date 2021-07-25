@@ -22,5 +22,6 @@ seo:
     - name: 'twitter:image'
       value: /_static/app-assets/images/curious-cabbage.jpg
       relativeUrl: true
+  description: 'Cecilia Mitma '
 layout: blog
 ---
