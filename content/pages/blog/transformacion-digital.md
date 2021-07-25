@@ -2,7 +2,7 @@
 title: Transformación digital como motor de crecimiento empresarial
 subtitle: Por Cecilia Mitma
 date: '2021-06-20'
-thumb_image_alt: Reunión de trabajo de personas
+thumb_image_alt: 'Reunión de trabajo de personas en un '
 image_alt: cafe derramado sobre papeles de trabajo
 excerpt: Hay dos caminos. Debemos resolver cuál es mejor.
 seo:
